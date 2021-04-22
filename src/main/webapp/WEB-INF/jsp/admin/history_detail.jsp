@@ -9,7 +9,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>查看离休员工信息</title>
+	<title>查看员工信息</title>
 	<meta name="keywords" content="">
 	<meta name="description" content="">
 
@@ -30,7 +30,7 @@
 			<div class="col-sm-12">
 				<div class="ibox float-e-margins">
 					<div class="ibox-title">
-						<h5>查看离休员工信息</h5>
+						<h5>查看员工信息</h5>
 					</div>
 					<div class="ibox-content">
 						<% History history = (History)request.getAttribute("history"); %>
